@@ -1,6 +1,9 @@
 # mini-gitclone
 let you clone your repo easily
 
+## prerequist
+<code>sudo apt-get install jq && sudo apt-get install curl</code>
+
 ## setup
 change "gazhonsepaskwa" in this line by your github username
 
